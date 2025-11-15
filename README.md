@@ -1,20 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+vermi masr 
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/14epXUAxbdXhG91_e2WV-Z1p8KJejn5kI
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Vermi Masr: Egypt's top producer of premium vermicompost and red wiggler worms. Boost your soil fertility with our 100% natural, organic solutions. Order today!
+![photo logo](https://github.com/user-attachments/assets/e403e58d-8840-4fa6-b0a0-c155dddd87e9)
